@@ -47,11 +47,6 @@ Agent / Scheduling Logic: Custom business logic + external APIs (e.g., Google Ca
 Version Control: Git + GitHub
 
 🛠 Installation & Local Setup
-# Clone the repository
-git clone https://github.com/YourUsername/Meet-AI.git
-
-# Move into the project directory
-cd meetai-saas-ai-agent-platform-nextjs-main
 
 # Install dependencies
 npm install
